@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">AI product and LLM training</title>
+  <desc id="desc">A dark blue abstract banner about AI products, language models, and continuous learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="960" height="560" rx="42" fill="url(#bg)"/>
+  <circle cx="780" cy="90" r="170" fill="#2563eb" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="190" cy="480" r="180" fill="#14b8a6" opacity="0.15" filter="url(#glow)"/>
+  <g opacity="0.14" stroke="#bfdbfe">
+    <path d="M80 86H880M80 156H880M80 226H880M80 296H880M80 366H880M80 436H880"/>
+    <path d="M120 52V508M240 52V508M360 52V508M480 52V508M600 52V508M720 52V508M840 52V508"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="5" opacity="0.9">
+    <path d="M132 346C232 222 318 420 414 278S594 170 686 282 790 358 850 238"/>
+    <circle cx="132" cy="346" r="10" fill="#60a5fa"/>
+    <circle cx="414" cy="278" r="10" fill="#38bdf8"/>
+    <circle cx="686" cy="282" r="10" fill="#2dd4bf"/>
+    <circle cx="850" cy="238" r="10" fill="#5eead4"/>
+  </g>
+  <text x="80" y="132" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="54" font-weight="700">BUILDING WITH AI</text>
+  <text x="84" y="184" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24" letter-spacing="3">PRODUCT · MODELS · PEOPLE</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="600">
+    <rect x="82" y="430" width="188" height="54" rx="27" fill="#1d4ed8" opacity="0.85"/>
+    <text x="119" y="465" fill="#eff6ff">AI PRODUCT</text>
+    <rect x="286" y="430" width="202" height="54" rx="27" fill="#0369a1" opacity="0.85"/>
+    <text x="320" y="465" fill="#f0f9ff">LLM TRAINING</text>
+    <rect x="504" y="430" width="292" height="54" rx="27" fill="#0f766e" opacity="0.9"/>
+    <text x="539" y="465" fill="#f0fdfa">CONTINUOUS LEARNING</text>
+  </g>
+</svg>
