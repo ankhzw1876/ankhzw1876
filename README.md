@@ -56,8 +56,8 @@ Welcome to my GitHub page! I am exploring AI products and large language model a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankhzw1876&show_icons=true&hide_border=true&theme=transparent&locale=cn" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankhzw1876&layout=compact&hide_border=true&theme=transparent&locale=cn" alt="Top languages">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ankhzw1876&show_icons=true&hide_border=true&theme=transparent&locale=cn" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankhzw1876&layout=compact&hide_border=true&theme=transparent&locale=cn" alt="Top languages">
 </p>
 
 ---
