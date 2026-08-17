@@ -36,9 +36,10 @@ Welcome to my GitHub page! I am exploring AI products and large language model a
 
 <br clear="right" />
 
-### 📚 Featured notes
+### 🚀 Featured projects
 
-- [大模型训练学习笔记](https://github.com/ankhzw1876/llm-training-notes) — 从 AI 产品经理视角梳理 Prompt、RAG、SFT、LoRA、训练数据、评测与上线闭环
+- [AI Concept XHS Skill](https://github.com/ankhzw1876/ai-concept-xhs-skill) — Verified AI concept explainers and knowledge-map cards
+- [Joker Game](https://github.com/ankhzw1876/joker-game) — A browser-based game project
 
 ### 🧰 Languages and tools
 
