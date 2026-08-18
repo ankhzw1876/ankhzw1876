@@ -18,3 +18,10 @@ and dataset design to evaluation and iteration.
 - A reusable workflow for evaluating AI product quality
 - Hands-on LLM fine-tuning and dataset experiments
 - Practical AI product case studies
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="assets/github-stats.svg" alt="GitHub stats">
+  <img height="165" src="assets/top-languages.svg" alt="Top languages">
+</p>
