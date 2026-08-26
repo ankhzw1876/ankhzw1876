@@ -1,4 +1,4 @@
-# Hi, I'm Wang Tianyu 👋
+# Hi, I'm Wang Tianyu 🫵
 
 AI Product Manager focused on LLM applications, RAG, Agents and model evaluation.
 
@@ -14,7 +14,7 @@ and dataset design to evaluation and iteration.
 - Joker Game — A browser-based interactive game and product experiment.
 
 ## Currently Building
-
+🫵
 - A reusable workflow for evaluating AI product quality
 - Hands-on LLM fine-tuning and dataset experiments
 - Practical AI product case studies
