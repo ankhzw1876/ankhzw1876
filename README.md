@@ -1,4 +1,4 @@
-# Hi, I'm Wang Tianyu 🫵
+# Hi, I'm Wang Tianyu 🙌
 
 AI Product Manager focused on LLM applications, RAG, Agents and model evaluation.
 
